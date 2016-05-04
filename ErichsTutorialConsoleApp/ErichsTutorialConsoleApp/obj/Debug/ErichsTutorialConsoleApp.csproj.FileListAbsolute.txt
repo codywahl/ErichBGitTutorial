@@ -1,0 +1,6 @@
+C:\Users\Cody.Wahl\Documents\GitHub\ErichBGitTutorial\ErichsTutorialConsoleApp\ErichsTutorialConsoleApp\bin\Debug\ErichsTutorialConsoleApp.exe.config
+C:\Users\Cody.Wahl\Documents\GitHub\ErichBGitTutorial\ErichsTutorialConsoleApp\ErichsTutorialConsoleApp\bin\Debug\ErichsTutorialConsoleApp.exe
+C:\Users\Cody.Wahl\Documents\GitHub\ErichBGitTutorial\ErichsTutorialConsoleApp\ErichsTutorialConsoleApp\bin\Debug\ErichsTutorialConsoleApp.pdb
+C:\Users\Cody.Wahl\Documents\GitHub\ErichBGitTutorial\ErichsTutorialConsoleApp\ErichsTutorialConsoleApp\obj\Debug\ErichsTutorialConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Cody.Wahl\Documents\GitHub\ErichBGitTutorial\ErichsTutorialConsoleApp\ErichsTutorialConsoleApp\obj\Debug\ErichsTutorialConsoleApp.exe
+C:\Users\Cody.Wahl\Documents\GitHub\ErichBGitTutorial\ErichsTutorialConsoleApp\ErichsTutorialConsoleApp\obj\Debug\ErichsTutorialConsoleApp.pdb
